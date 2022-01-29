@@ -30,5 +30,7 @@ Simple app to display images in a flutter. In this demo app, we display the imag
 
 ## Contact
 **Name:** Manish Ahire
+
 **Portfolio:** [www.manishahire.com](https://www.manishahire.com/)
+
 **Blog:** [www.mobodevstuff.com](https://www.mobodevstuff.com/)
