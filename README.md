@@ -1,16 +1,34 @@
-# display_images_flutter
+# Display Images In Flutter
 
-A new Flutter project.
+Simple app to display images in a flutter. In this demo app, we display the images from the Assets folder and from the network (fetch an image from URL).
 
-## Getting Started
+## Build On
+- Flutter 2.8.1
+- Dart 2.15.1
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## What we learn here
+- In this demo, we learned the following widgets
+  1. [MaterialApp](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
+  2. [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+  3. [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html)
+  4. [Text](https://api.flutter.dev/flutter/widgets/Text-class.html)
+  5. [Center](https://api.flutter.dev/flutter/widgets/Center-class.html)
+  6. [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
+- How to add an image to the project and how to display it.
+- How to display images from the network.
+- How to change the background color.
+- How to center the widgets.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### iPhone
+![iPhone](Screenshots/iOS.png)
+
+### Android
+![Android](Screenshots/Android.png)
+
+## Contact
+**Name:** Manish Ahire
+**Portfolio:** [www.manishahire.com](https://www.manishahire.com/)
+**Blog:** [www.mobodevstuff.com](https://www.mobodevstuff.com/)
